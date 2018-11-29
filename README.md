@@ -19,13 +19,11 @@
 
 8. [fix for 䍁 (cjk ext-a)](../../commit/06a80d9)
 
-9. [fix for 𨱔 (cjk ext-b)](../../commit/29887a5)
-
-
 | 繁 | 简 | Unicode | OS |
 | :--: | -- | ------- | -- |
 | 讟 | http://glyphwiki.org/wiki/u2e64b  | cjk ext-f, Unicode 10.0, 2017 | N/A |
 | 鵀 | http://glyphwiki.org/wiki/u2ce0a  | cjk ext-e, Unicode 8.0, 2015 | N/A |
 | 繸 | [䍁](https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=4341) | cjk ext-a, Unicode 3.0, 1999 | +  |
-| 鐏 | [𨱔](https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=28c54) | cjk ext-b, Unicode 3.1, 2001 | Android 6+ |
 | (墩) | [𣎴](https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=233b4) | cjk ext-b, Unicode 3.1, 2001 | Android 6+ |
+
+Note: iOS 6 (at least 6.1.6, release 2012 - 2014) support `䍁`, `𣎴`; Android 4.1 (at least, release on 2012) support `䍁`.
