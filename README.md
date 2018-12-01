@@ -21,8 +21,8 @@
 
 | 繁 | 简 | Count | Unicode | OS |
 | :--: | -- | -- | ------- | -- |
-| 讟 | http://glyphwiki.org/wiki/u2e64b  | 8 | cjk ext-f, Unicode 10.0, 2017 | N/A |
-| 鵀 | http://glyphwiki.org/wiki/u2ce0a  | 2 | cjk ext-e, Unicode 8.0, 2015 | N/A |
+| 讟 | [𮙋](https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=2e64b) http://glyphwiki.org/wiki/u2e64b  | 8 | cjk ext-f, Unicode 10.0, 2017 | N/A |
+| 鵀 | [𬸊](https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=2ce0a) http://glyphwiki.org/wiki/u2ce0a  | 2 | cjk ext-e, Unicode 8.0, 2015 | N/A |
 | 繸 | [䍁](https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=4341) | 10 | cjk ext-a, Unicode 3.0, 1999 | +  |
 | 鐏 | [𨱔](https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=28c54) | 1 | cjk ext-b, Unicode 3.1, 2001 | Android 6+, iOS latest |
 | (墩) | [𣎴](https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=233b4) | 6 | cjk ext-b, Unicode 3.1, 2001 | Android 6+ |
