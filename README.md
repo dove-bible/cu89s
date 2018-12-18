@@ -19,6 +19,8 @@
 
 8. [fix for 䍁 (cjk ext-a)](../../commit/06a80d9)
 
+9. [adjust format for Ps 87:2, Ezek 28:20-22](../../commit/a9b9761)
+
 | 繁 | 简 | Count | Unicode | OS |
 | :--: | -- | -- | ------- | -- |
 | 讟 | [𮙋](https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=2e64b) http://glyphwiki.org/wiki/u2e64b  | 8 | cjk ext-f, Unicode 10.0, 2017 | N/A |
